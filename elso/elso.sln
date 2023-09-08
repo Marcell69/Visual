@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elso", "elso\elso.csproj", "{BFEBD989-2510-482D-860F-A27B223E9556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFEBD989-2510-482D-860F-A27B223E9556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEBD989-2510-482D-860F-A27B223E9556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEBD989-2510-482D-860F-A27B223E9556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEBD989-2510-482D-860F-A27B223E9556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5288309-2EA9-4782-8D90-15CF2AA4444F}
+	EndGlobalSection
+EndGlobal
